@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a Streamlit-based web application for automatic classification of cell phenotypes from four-channel immunofluorescence microscopy images using a trained EfficientNet-B0 deep learning model.
+This project is a Streamlit-based web application for automatic classification of cell phenotypes from four-channel immunofluorescence microscopy images using a trained EfficientNet-B0 deep learning model. ML-part in Cell_Phenotype_Classification.ipynb.
 
 The application accepts four fluorescence channels:
 
