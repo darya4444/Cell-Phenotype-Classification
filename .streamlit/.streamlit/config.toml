@@ -1,0 +1,14 @@
+[server]
+enableCORS = false
+enableXsrfProtection = false
+port = 8501
+
+[browser]
+serverAddress = "localhost"
+serverPort = 8501
+
+[runner]
+fixMatplotlib = true
+
+[global]
+sharingMode = "off"
